@@ -9,5 +9,6 @@ public class Employee {
 		this.name = name;
 	}
 	private String name;
+	private double salary;
 
 }
